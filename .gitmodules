@@ -1,0 +1,3 @@
+[submodule "medium-schmitt-trigger"]
+	path = medium-schmitt-trigger
+	url = https://github.com/fhormot/medium-schmitt-trigger.git
