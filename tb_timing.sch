@@ -101,4 +101,4 @@ C {capa-2.sym} 670 -310 0 0 {name=C1
 m=1
 value=1e-15
 device=polarized_capacitor}
-C {/foss/designs/medium-deglitch/deglitch-100n.sym} 540 -390 0 0 {name=x1}
+C {/foss/designs/xschem-ihp130-deglitch/deglitch-100n.sym} 540 -390 0 0 {name=x1}
